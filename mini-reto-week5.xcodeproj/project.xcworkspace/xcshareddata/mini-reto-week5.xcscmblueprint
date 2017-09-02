@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1F6E6C0E2A9868B08FA135AC714074584F3A811D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1F6E6C0E2A9868B08FA135AC714074584F3A811D" : 9223372036854775807,
+    "7CF16243C79998DAB79DA3CEDAF449FC43CD85C7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A3FE2B57-7C30-48FC-B776-5B89C8E1D5B5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1F6E6C0E2A9868B08FA135AC714074584F3A811D" : "mini-reto-week5\/",
+    "7CF16243C79998DAB79DA3CEDAF449FC43CD85C7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mini-reto-week5",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mini-reto-week5.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/joseppalau\/coursera-programarIOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F6E6C0E2A9868B08FA135AC714074584F3A811D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/joseppalau\/coursera-programarIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7CF16243C79998DAB79DA3CEDAF449FC43CD85C7"
+    }
+  ]
+}
