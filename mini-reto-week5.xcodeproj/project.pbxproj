@@ -12,6 +12,8 @@
 		833277AD1F5AF0B90027E205 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 833277AB1F5AF0B90027E205 /* Main.storyboard */; };
 		833277AF1F5AF0B90027E205 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 833277AE1F5AF0B90027E205 /* Assets.xcassets */; };
 		833277B21F5AF0B90027E205 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 833277B01F5AF0B90027E205 /* LaunchScreen.storyboard */; };
+		833277BA1F5AF1090027E205 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833277B91F5AF1090027E205 /* Datos.swift */; };
+		833277BC1F5AF1240027E205 /* ColoresStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833277BB1F5AF1240027E205 /* ColoresStruct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		833277AE1F5AF0B90027E205 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		833277B11F5AF0B90027E205 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		833277B31F5AF0B90027E205 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		833277B91F5AF1090027E205 /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		833277BB1F5AF1240027E205 /* ColoresStruct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColoresStruct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				833277A71F5AF0B90027E205 /* AppDelegate.swift */,
 				833277A91F5AF0B90027E205 /* ViewController.swift */,
 				833277AB1F5AF0B90027E205 /* Main.storyboard */,
+				833277B91F5AF1090027E205 /* Datos.swift */,
+				833277BB1F5AF1240027E205 /* ColoresStruct.swift */,
 				833277AE1F5AF0B90027E205 /* Assets.xcassets */,
 				833277B01F5AF0B90027E205 /* LaunchScreen.storyboard */,
 				833277B31F5AF0B90027E205 /* Info.plist */,
@@ -139,6 +145,8 @@
 			files = (
 				833277AA1F5AF0B90027E205 /* ViewController.swift in Sources */,
 				833277A81F5AF0B90027E205 /* AppDelegate.swift in Sources */,
+				833277BC1F5AF1240027E205 /* ColoresStruct.swift in Sources */,
+				833277BA1F5AF1090027E205 /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
